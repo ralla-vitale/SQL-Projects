@@ -23,7 +23,7 @@ Collection of SQL projects for data analysis and visualization.
 
 # List of projects
 
-## [Rockbuster]()
+## [Rockbuster](https://github.com/ralla-vitale/SQL-Projects/tree/main/Rockbuster)
 Movie sales project conducted in SQL, EXCEL and presentation in Powerpoint for Career Foundry Data Analytics Program. 
 It is used to perform data analysis for real world business related questions and scenarios such as: 
 + Where does our revenue come from? 
